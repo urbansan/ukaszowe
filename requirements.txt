@@ -1,0 +1,4 @@
+requests
+black
+wheel
+pytest
